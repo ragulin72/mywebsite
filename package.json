@@ -1,0 +1,21 @@
+{
+  "name": "mywebsite",
+  "version": "0.1.0",
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "grunt": "^1.0.3",
+    "grunt-babel": "^8.0.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-file-creator": "^0.1.3",
+    "grunt-img": "^0.1.8",
+    "grunt-spritesmith": "^6.6.2"
+  },
+  "dependencies": {}
+}
